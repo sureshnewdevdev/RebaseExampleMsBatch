@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F078-2F96
+
+ Directory of C:\MicroServiceSource\GitRebase\RebaseExampleMsBatch
+
+20-09-2024  21:09    <DIR>          .
+20-09-2024  20:44    <DIR>          ..
+20-09-2024  21:09               524 CherryPick1
+20-09-2024  21:09                 0 CherryPick2
+20-09-2024  20:58                51 Main2Change
+20-09-2024  20:58                20 Main3Change
+20-09-2024  20:46                40 MainBranchFirstFile
+               5 File(s)            635 bytes
+               2 Dir(s)  21,724,811,264 bytes free
